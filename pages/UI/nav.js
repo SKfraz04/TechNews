@@ -9,7 +9,7 @@ function BrandExample() {
     <>
       <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand href="#home">
+          <Navbar.Brand href="/">
             <img
               src="https://seeklogo.com/images/D/doordarshan-logo-921EB9A055-seeklogo.com.png"
               width="30"
